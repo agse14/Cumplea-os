@@ -90,13 +90,19 @@
 		<!-- Details -->
 		<div class="flex flex-col gap-3 text-left">
 
-			<div class="flex items-center gap-3 p-3.5 rounded-xl transition-all duration-200 hover:bg-pink-50/80 hover:translate-x-1" style="background: rgba(236, 72, 153, 0.04);">
+			<a
+				href="https://www.google.com/calendar/render?action=TEMPLATE&text=Cumplea%C3%B1os%20de%20Ava%20%F0%9F%8E%89&dates=20260714T210000Z%2F20260715T010000Z&details=%C2%A1Ava%20cumple%209%20a%C3%B1os!%20Te%20esperamos%20para%20celebrar%20%F0%9F%8E%89&location=Bahia%20Grande%20%233721%2C%20Col.%20Rinc%C3%B3n%20de%20la%20Primavera&ctz=America%2FMexico_City"
+				target="_blank"
+				rel="noopener noreferrer"
+				class="flex items-center gap-3 p-3.5 rounded-xl transition-all duration-200 hover:bg-pink-50/80 hover:translate-x-1"
+				style="background: rgba(236, 72, 153, 0.04); text-decoration: none;"
+			>
 				<span class="text-xl flex-shrink-0">📅</span>
 				<div>
 					<div class="text-xs text-gray-400 font-medium uppercase tracking-wide">Fecha</div>
 					<div class="font-semibold text-[#1e1b4b]">14 de julio de 2026</div>
 				</div>
-			</div>
+			</a>
 
 			<div class="flex items-center gap-3 p-3.5 rounded-xl transition-all duration-200 hover:bg-pink-50/80 hover:translate-x-1" style="background: rgba(236, 72, 153, 0.04);">
 				<span class="text-xl flex-shrink-0">⏰</span>
