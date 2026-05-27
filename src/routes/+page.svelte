@@ -82,7 +82,7 @@
 		</h1>
 
 		<p class="text-base text-gray-400 mt-2 font-normal">
-			Estás cordialmente invitado a celebrar con nosotros
+			Te invitamos cordialmente a celebrar en casa
 		</p>
 
 		<div class="h-px my-6 bg-gradient-to-r from-transparent via-pink-200 to-transparent"></div>
