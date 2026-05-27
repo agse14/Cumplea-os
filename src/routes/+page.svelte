@@ -106,14 +106,20 @@
 				</div>
 			</div>
 
-			<div class="flex items-center gap-3 p-3.5 rounded-xl transition-all duration-200 hover:bg-pink-50/80 hover:translate-x-1" style="background: rgba(236, 72, 153, 0.04);">
+			<a
+				href="https://maps.app.goo.gl/wYZU8CpU9CoKeD2C6"
+				target="_blank"
+				rel="noopener noreferrer"
+				class="flex items-center gap-3 p-3.5 rounded-xl transition-all duration-200 hover:bg-pink-50/80 hover:translate-x-1"
+				style="background: rgba(236, 72, 153, 0.04); text-decoration: none;"
+			>
 				<span class="text-xl flex-shrink-0">📍</span>
 				<div>
 					<div class="text-xs text-gray-400 font-medium uppercase tracking-wide">Lugar</div>
 					<div class="font-semibold text-[#1e1b4b]">Bahia Grande #3721</div>
 					<div class="text-sm text-gray-500">Col. Rincón de la Primavera</div>
 				</div>
-			</div>
+			</a>
 
 		</div>
 
@@ -136,11 +142,7 @@
 			Confirmar por WhatsApp
 		</a>
 
-		<div class="mt-5">
-			<a href="/" class="btn-secondary">
-				← Regresar
-			</a>
-		</div>
+
 	</div>
 </div>
 
