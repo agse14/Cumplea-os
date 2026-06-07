@@ -10,7 +10,7 @@
 
 <svelte:head>
 	<title>¡Ava cumple 9 años! 🎉</title>
-	<meta name="description" content="Invitación al cumpleaños de Ava - 14 de julio de 2026" />
+	<meta name="description" content="Invitación al cumpleaños de Ava - 12 de julio de 2026" />
 	<meta property="og:title" content="¡Ava cumple 9 años! 🎉" />
 	<meta property="og:description" content="Estás cordialmente invitado a celebrar los 9 años de Ava" />
 	<meta property="og:type" content="website" />
@@ -91,7 +91,7 @@
 		<div class="flex flex-col gap-3 text-left">
 
 			<a
-				href="https://www.google.com/calendar/render?action=TEMPLATE&text=Cumplea%C3%B1os%20de%20Ava%20%F0%9F%8E%89&dates=20260714T210000Z%2F20260715T010000Z&details=%C2%A1Ava%20cumple%209%20a%C3%B1os!%20Te%20esperamos%20para%20celebrar%20%F0%9F%8E%89&location=Bahia%20Grande%20%233721%2C%20Col.%20Rinc%C3%B3n%20de%20la%20Primavera&ctz=America%2FMexico_City"
+				href="https://www.google.com/calendar/render?action=TEMPLATE&text=Cumplea%C3%B1os%20de%20Ava%20%F0%9F%8E%89&dates=20260712T210000Z%2F20260713T020000Z&details=%C2%A1Ava%20cumple%209%20a%C3%B1os!%20Te%20esperamos%20para%20celebrar%20%F0%9F%8E%89&location=Bahia%20Grande%20%233721%2C%20Col.%20Rinc%C3%B3n%20de%20la%20Primavera&ctz=America%2FMexico_City"
 				target="_blank"
 				rel="noopener noreferrer"
 				class="flex items-center gap-3 p-3.5 rounded-xl transition-all duration-200 hover:bg-pink-50/80 hover:translate-x-1"
@@ -100,7 +100,7 @@
 				<span class="text-xl flex-shrink-0">📅</span>
 				<div>
 					<div class="text-xs text-gray-400 font-medium uppercase tracking-wide">Fecha</div>
-					<div class="font-semibold text-[#1e1b4b]">14 de julio de 2026</div>
+					<div class="font-semibold text-[#1e1b4b]">12 de julio de 2026</div>
 				</div>
 			</a>
 
@@ -108,7 +108,7 @@
 				<span class="text-xl flex-shrink-0">⏰</span>
 				<div>
 					<div class="text-xs text-gray-400 font-medium uppercase tracking-wide">Hora</div>
-					<div class="font-semibold text-[#1e1b4b]">3:00 PM</div>
+					<div class="font-semibold text-[#1e1b4b]">3:00 PM - 8:00 PM</div>
 				</div>
 			</div>
 
@@ -122,10 +122,23 @@
 				<span class="text-xl flex-shrink-0">📍</span>
 				<div>
 					<div class="text-xs text-gray-400 font-medium uppercase tracking-wide">Lugar</div>
-					<div class="font-semibold text-[#1e1b4b]">Bahia Grande #3721</div>
+					<div class="font-semibold text-[#1e1b4b]">Bahía Grande #3721</div>
 					<div class="text-sm text-gray-500">Col. Rincón de la Primavera</div>
 				</div>
 			</a>
+
+			<div class="flex items-start gap-3 p-3.5 rounded-xl transition-all duration-200 hover:bg-pink-50/80 hover:translate-x-1" style="background: rgba(236, 72, 153, 0.04);">
+				<span class="text-xl flex-shrink-0 mt-0.5">🚪</span>
+				<div>
+					<div class="text-xs text-gray-400 font-medium uppercase tracking-wide">Indicaciones para entrar</div>
+					<div class="font-semibold text-[#1e1b4b] text-sm leading-relaxed">
+						Al llegar a la entrada proporciona:<br>
+						<span class="font-normal">- Tu nombre</span><br>
+						<span class="font-normal">- Nombre de quien visitas: <span class="font-semibold">Martha Escobar</span></span><br>
+						<span class="font-normal">- Dirección: <span class="font-semibold">Bahía Grande #3721</span></span>
+					</div>
+				</div>
+			</div>
 
 		</div>
 
