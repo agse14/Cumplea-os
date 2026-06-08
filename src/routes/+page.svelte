@@ -134,7 +134,7 @@
 					<div class="font-semibold text-[#1e1b4b] text-sm leading-relaxed">
 						Al llegar a la entrada proporciona:<br>
 						<span class="font-normal">- Tu nombre</span><br>
-						<span class="font-normal">- Nombre de quien visitas: <span class="font-semibold">Martha Escobar</span></span><br>
+						<span class="font-normal">- Nombre de quien visitas: <span class="font-semibold">Andrés Sánchez</span></span><br>
 						<span class="font-normal">- Dirección: <span class="font-semibold">Bahía Grande #3721</span></span>
 					</div>
 				</div>
